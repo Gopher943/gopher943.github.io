@@ -1,7 +1,7 @@
 ---
 title: "Towards a better understanding of the role of visualization in online learning: A review"
 collection: publications
-permalink: /publication/2022-04-01-sun-survizor
+permalink: /publication/2022-12-01-zhang-online
 date: 2022-12-01
 venue: 'Visual Informatics'
 paperurl: "/files/online.pdf"
