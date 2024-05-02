@@ -1,13 +1,13 @@
 ---
-title: "SurVizor: visualizing and understanding the key content of surveillance videos"
+title: "Towards a better understanding of the role of visualization in online learning: A review"
 collection: publications
 permalink: /publication/2022-04-01-sun-survizor
-date: 2021-11-09
-venue: 'Journal of Visualization'
-paperurl: "/files/SurVizor.pdf"
-link: "https://doi.org/10.1007/s12650-021-00803-w"
-code: "https://github.com/TongLi97/SurVizor"
-citation: 'Guodao Sun*, <strong>Tong Li</strong> & Ronghua Liang. &quot;SurVizor: visualizing and understanding the key content of surveillance videos.&quot; <i>Journal of Visualization, 2022.</i> 25(3).'
+date: 2022-12-01
+venue: 'Visual Informatics'
+paperurl: "/files/online.pdf"
+link: "https://www.sciencedirect.com/science/article/pii/S2468502X22000924"
+code: "https://zjutvis.github.io/OL4VIS/"
+citation: '<strong>Gefei Zhang</strong>, Zihao Zhu, Sujia Zhu, Ronghua Liang, Guodao Sun*; Towards a better understanding of the role of visualization in online learning: A review.&quot; <i>Visual Informatic, 2022.</i> 25(3).'
 ---
 
-<img src="/images/SurVizor.png" />
+<img src="/images/online.png" />
