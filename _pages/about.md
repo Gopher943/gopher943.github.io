@@ -17,14 +17,17 @@ I'm interested in exploring large data using interactive visual analytics. At pr
 News (Last Update: 07/25/2024)
 ======
 <strong>[July. 2024]</strong> Our paper "ASRelVis: Exploring Autonomous System Relationships through 3D Lightous Layout with Linked Radial 2D Representations" received Honorable Mention Award in <strong>ChinaVis 2024</strong>. 🎉  
+
 <strong>[July. 2024]</strong> Our paper "Video Visualization and Visual Analytics: A Task-Based and Application-Driven Investigation" was accepted by <strong>IEEE Transactions on Circuits and Systems for Video Technology</strong>. 🎉
+
 <strong>[June. 2024]</strong> Our paper "Towards Better Utilization of Haptic Interaction in Visualization: Design Space and Knob Prototype" was accepted by <strong>International Journal of Human–Computer Interaction</strong>. 🎉
+
 <strong>[April. 2024]</strong> Our paper "MAVIDSQL: A Model-Agnostic Visualization for Interpretation and Diagnosis of Text-to-SQL Tasks" was accepted by <strong>IEEE Transactions on Cognitive and Developmental Systems</strong>. 🎉
 
 <!-- <strong>[July. 2024]</strong> Our paper "ASRelVis: Exploring Autonomous System Relationships through 3D Lightous Layout with Linked Radial 2D Representations" received Honorable Mention Award in <strong>ChinaVis 2024</strong>. 🎉                                                                                               
 <strong>[Apr. 2022]</strong> Our paper "SurVizor: Visualizing and Understanding the Key Content of Surveillance Videos" was accepted by <strong>Journal of Visualization</strong>. 🎉                                                                                     
 <strong>[Oct. 2021]</strong> The project I presided over won the <strong>School-level project</strong> 🏆 in the 2021 "Canal Cup" Extracurricular Academic Science and Technology Fund Project.                                                              
-<strong>[Jul. 2021]</strong> I gave a talk of "SurVizor: Visualizing and Understanding the Key Content of Surveillance Videos" on <strong>China Vis 2021</strong>.                                                                                                                                         
+<strong>[Jul. 2021]</strong> I gave a talk of "SurVizor: Visualizing and Understanding the Key Content of Surveillance Videos" on <strong>China Vis 2021</strong>.                                                                                                                                    
 <strong>[Jun. 2021]</strong> Our paper "SurVizor: Visualizing and Understanding the Key Content of Surveillance Videos" was accepted by <strong>China Vis 2021</strong>.                                  
 <strong>[Aug. 2020]</strong> The team I led won the <strong>National Third Prize</strong> 🏆 in the 11th China University Student Service Outsourcing Innovation and Entrepreneurship Competition.                                            
 <strong>[Sep. 2019]</strong> I officially joined ZjutVis and started my visualization journey!                                                                                                                                                                            -->
@@ -32,7 +35,9 @@ News (Last Update: 07/25/2024)
 Education
 ======
 <img src="/images/hat.png" width="30px" height="30px"> Visiting Ph.D. Student in Computer Science and Technology, Texas A&M University. 2024 - Now 
-<img src="/images/hat.png" width="30px" height="30px"> Ph.D. Candidate in Computer Science and Technology, Zhejiang University of Technology. 2021 - Now                          
+
+<img src="/images/hat.png" width="30px" height="30px"> Ph.D. Candidate in Computer Science and Technology, Zhejiang University of Technology. 2021 - Now 
+
 <img src="/images/hat.png" width="30px" height="30px"> B.E. in Education Technology, Zhejiang University of Technology. 2017 - 2021                        
 
 
