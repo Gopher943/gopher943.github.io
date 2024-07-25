@@ -10,13 +10,14 @@ redirect_from:
 
 <img src="/images/clap.png" width="30px" height="30px"> Welcome and thank you for visiting my site! I am currently a PH.D. student in [Zhejiang University of Technology](https://www.zjut.edu.cn/). I joined the Data Visualization Group at Zhejiang University of Technology [(ZjutVis)](https://zjutvis.org/) in 2020 and under the supervision of [Prof. Ronghua Liang](https://scholar.google.com/citations?user=fbvnBG4AAAAJ&hl=en) and [Prof. Guodao Sun](https://godoorsun.org/). And I am currently a visiting student at [Texas A&M University](https://www.tamu.edu/index.html) and a member of the [Dream Lab](https://www.xiameng.org/DreamLab/), supervised by [Prof. Xia](https://www.xiameng.org/).
 
-I'm interested in exploring large data using interactive visual analytics. At present, my research focus is developing interactive <strong>visual analytics</strong> approaches for analyzing <strong>video data (associated with education technology)</strong>.                   
+I'm interested in exploring large data using interactive visual analytics. At present, my research focus is developing interactive <strong>visual analytics</strong> approaches for analyzing <strong>video data (associated with education technology)</strong>.
+
 👀 Please feel free to look around and contact me if you have any comments!                      
 <img src="/images/email.png" width="25px" height="25px"> gefei@zjut.edu.cn  |  gopherzhang943@gmail.com  |  gefeizhang@tamu.edu
 
 News (Last Update: 07/25/2024)
 ======
-<strong>[July. 2024]</strong> Our paper "ASRelVis: Exploring Autonomous System Relationships through 3D Lightous Layout with Linked Radial 2D Representations" received Honorable Mention Award in <strong>ChinaVis 2024</strong>. 🎉  
+<strong>[July. 2024]</strong> Our paper "ASRelVis: Exploring Autonomous System Relationships through 3D Lightous Layout with Linked Radial 2D Representations" received <i>Best Paper Mention Award</i> in <strong>ChinaVis 2024</strong>. 🎉  
 
 <strong>[July. 2024]</strong> Our paper "Video Visualization and Visual Analytics: A Task-Based and Application-Driven Investigation" was accepted by <strong>IEEE Transactions on Circuits and Systems for Video Technology</strong>. 🎉
 
@@ -43,6 +44,6 @@ Education
 
 
 
-Copyright
+<!-- Copyright
 ======
-<img src="/images/copyright.png" width="30px" height="30px"> If you find personal academic material on this site useful for your research, please consider citing it!                                    
+<img src="/images/copyright.png" width="30px" height="30px"> If you find personal academic material on this site useful for your research, please consider citing it!                                     -->
