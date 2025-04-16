@@ -10,7 +10,7 @@ html {
 body {
   margin: 0;
   padding: 0;
-  padding-bottom: 9em;
+  padding-bottom: 0em;
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
@@ -22,14 +22,15 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  margin: 2em 0 0.5em;
+  margin: 1em 0 0.5em;
   line-height: 1.2;
   font-family: $header-font-family;
   font-weight: bold;
 }
 
 h1 {
-  margin-top: 0;
+  // margin: 4em 0 0.5em;
+  margin-top: 1em;
   font-size: $type-size-3;
 }
 
@@ -58,7 +59,7 @@ small, .small {
 }
 
 p {
-  margin-bottom: 1.3em;
+  margin-bottom: 0.5em;
 }
 
 u,
@@ -68,6 +69,11 @@ ins {
   a {
     color: inherit;
   }
+}
+
+ul {
+  padding-inline-start: 2em;
+  margin-block-start: 0.5em;
 }
 
 del a {
@@ -112,6 +118,7 @@ blockquote {
 /* links */
 
 a {
+  
   &:focus {
     @extend %tab-focus;
   }
@@ -124,7 +131,7 @@ a {
 
 /* code */
 
-tt, code, samp, pre {
+tt, code, kbd, samp, pre {
   font-family: $monospace;
 }
 
@@ -146,20 +153,9 @@ td > code {
   box-shadow: $box-shadow;
 
   &:before, &:after {
-    letter-spacing: -0.5em;
+    letter-spacing: -0.2em;
     content: "\00a0"; /* non-breaking space*/
   }
-}
-
-/* keyboard tag */
-
-kbd {
-  font-family: $monospace;
-  font-size: $type-size-6;
-  border-radius: 3px;
-  padding: 1px 2px 0;
-  border: 1px solid;
-  background-color: $code-background-color;
 }
 
 /* horizontal rule */
