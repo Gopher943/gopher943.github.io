@@ -84,7 +84,7 @@ International Journal of Human–Computer Interaction, 2024.
 <div class='paper-box-text' markdown="1">
 **ASRelVis: Exploring 3D Autonomous System Relationship with Linked Hierarchical Radial 2D Representations**
 
-**<u>Jingwei Tang</u>**, Jiahui Chen, Peng Jiang, Gefei Zhang, Guodao Sun, Haixia Wang and Ronghua Liang
+Jingwei Tang, Jiahui Chen, Peng Jiang, **<u>Gefei Zhang</u>**, Guodao Sun, Haixia Wang and Ronghua Liang
 
 [//]: # (**<font color="#144185">ChinaVis 2024</font>** \|  Journal of Visualization 2024. _To Appear_.)
 
@@ -112,7 +112,7 @@ Journal of Visualization 2024. _To Appear_.
 <div class='paper-box-text' markdown="1">
 **MAVIDSQL: A Model-Agnostic Visualization for Interpretation and Diagnosis of Text-to-SQL Tasks**
 
-**<u>Jingwei Tang</u>**, Guodao Sun, Jiahui Chen, Gefei Zhang, Baofeng Chang, Haixia Wang, Ronghua Liang
+Jingwei Tang, Guodao Sun, Jiahui Chen, **<u>Gefei Zhang</u>**, Baofeng Chang, Haixia Wang, Ronghua Liang
 
 IEEE Transactions on Cognitive and Developmental Systems, 2024. _Early Access_
 
