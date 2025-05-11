@@ -2,8 +2,9 @@
 # 💬 Service
 
 ## Conference Reviewer
-- DIS (2025)
+- ACM DIS (2025)
 - ACM CHI (2025)
+- ACM UIST (2025)
 - Creativity & Cognition (2025)
 - EuroVis Education Papers (2024-2025)
 - ChinaVis Papers (2024)
