@@ -7,7 +7,7 @@ My research lies at the intersection of Visual Analytics, Human-Computer Interac
 
 The overarching goal of my research is to bridge the gap between complex data analysis and intuitive understanding through innovative visualization approaches.
 
-👀 If you are interested in my research, please feel free to contact me via <a href="mailto:gefeizhang943@gmail.com"> gefei [at] zjut.edu.cn</a>.
+👀 If you are interested in my research, please feel free to contact me via <a href="mailto:gefeizhang943@gmail.com"> gefeizhang943 [at] gmail.com</a>.
 
 More information will be update soon~
 
