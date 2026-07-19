@@ -1,5 +1,24 @@
 # 📝 Publications
 
+## 2026
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">ACM CHI 2026</div>
+<img src='images/paper_classaid_chi26.png' alt="sym" width="100%">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+**ClassAid: A Real-time Instructor-AI-Student Orchestration System for Classroom Programming Activities**
+
+**<u>Gefei Zhang</u>**, Guodao Sun, Meng Xia, Ronghua Liang
+
+Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems, 2026.
+
+[[paper]](https://doi.org/10.1145/3772318.3790824) [[pdf]](/pdf/ClassAid2.pdf) [[bib]](/bib/zhang2026classaid.bib)
+</div>
+</div>
+
 ## 2025
 <div class='paper-box'>
 <div class='paper-box-image'>

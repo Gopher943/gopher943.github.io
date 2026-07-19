@@ -1,5 +1,5 @@
 # 👋 Hi, I am Gefei Zhang!
-I am currently a Ph.D. candidate in [Zhejiang University of Technology](https://www.zjut.edu.cn/) and a visiting scholar at [Texas A&M University](https://www.tamu.edu/index.html). My academic journey includes being a core member of the Data Visualization Group [(ZjutVis)](https://zjutvis.org/) since 2020, where I work under the supervision of [Prof. Ronghua Liang](https://scholar.google.com/citations?user=fbvnBG4AAAAJ&hl=en) and [Prof. Guodao Sun](https://godoorsun.org/). At Texas A&M University, I am privileged to be part of the [Dream Lab](https://www.xiameng.org/DreamLab/), working with [Prof. Xia](https://www.xiameng.org/).
+I am currently a postdoctoral researcher at [Zhejiang University of Technology](https://www.zjut.edu.cn/), working with [Prof. Guodao Sun](https://godoorsun.org/). My academic journey includes being a core member of the Data Visualization Group [(ZjutVis)](https://zjutvis.org/) since 2020. I was also a visiting scholar at [Texas A&M University](https://www.tamu.edu/index.html), where I had the privilege of being part of the [Dream Lab](https://www.xiameng.org/DreamLab/) and working with [Prof. Meng Xia](https://www.xiameng.org/).
 
 My research lies at the intersection of Visual Analytics, Human-Computer Interaction, and Education Technology. Specifically, I focus on:
 - **Visual Analytics**: Developing interactive approaches for large-scale data analysis
@@ -18,4 +18,3 @@ More information will be update soon~
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-
