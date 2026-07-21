@@ -23,6 +23,24 @@ Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems, 20
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
+<div class="badge">UIST Adjunct 2025</div>
+<img src='images/paper_conflictlens_uistadj25.png' alt="sym" width="100%">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+**ConflictLens: LLM-Based Conflict Resolution Training in Romantic Relationship**
+
+Jiwon Chun, **<u>Gefei Zhang</u>**, Meng Xia
+
+The 38th Annual ACM Symposium on User Interface Software and Technology (UIST Adjunct '25), 2025. Poster.
+
+[[paper]](https://doi.org/10.1145/3746058.3758422) [[pdf]](/pdf/conflicts.pdf) [[bib]](/bib/chun2025conflictlens.bib)
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
 <div class="badge">ACM CHI 2025</div>
 <img src='images/paper_cpvis_chi25.png' alt="sym" width="100%">
 </div>
