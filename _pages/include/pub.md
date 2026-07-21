@@ -32,7 +32,7 @@ Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems, 20
 
 Jiwon Chun*, **<u>Gefei Zhang</u>***, Meng Xia
 
-The 38th Annual ACM Symposium on User Interface Software and Technology (UIST Adjunct '25), 2025. Poster.
+The 38th Annual ACM Symposium on User Interface Software and Technology, 2025. Poster.
 
 * Equal contribution.
 
