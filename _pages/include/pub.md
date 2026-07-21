@@ -30,11 +30,11 @@ Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems, 20
 <div class='paper-box-text' markdown="1">
 **ConflictLens: LLM-Based Conflict Resolution Training in Romantic Relationship**
 
-Jiwon Chun*, **<u>Gefei Zhang</u>***, Meng Xia
+Jiwon Chun<sup>*</sup>, **<u>Gefei Zhang</u>**<sup>*</sup>, Meng Xia
 
 The 38th Annual ACM Symposium on User Interface Software and Technology, 2025. Poster.
 
-* Equal contribution.
+<sup>*</sup> Equal contribution.
 
 [[paper]](https://doi.org/10.1145/3746058.3758422) [[pdf]](/pdf/conflicts.pdf) [[bib]](/bib/chun2025conflictlens.bib)
 </div>
