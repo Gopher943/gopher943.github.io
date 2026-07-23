@@ -13,7 +13,7 @@
 
 **<u>Gefei Zhang</u>**, Guodao Sun, Meng Xia, Ronghua Liang
 
-Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems, 2026.
+ACM CHI Conference on Human Factors in Computing Systems, 2026.
 
 [[paper]](https://doi.org/10.1145/3772318.3790824) [[pdf]](/pdf/ClassAid2.pdf) [[bib]](/bib/zhang2026classaid.bib)
 </div>
@@ -23,7 +23,7 @@ Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems, 20
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge">UIST 2025</div>
+<div class="badge">ACM UIST 2025</div>
 <img src='images/paper_conflictlens_uistadj25.png' alt="sym" width="100%">
 </div>
 </div>
