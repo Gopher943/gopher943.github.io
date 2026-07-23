@@ -2,9 +2,11 @@
 
 
 [//]: # (&ensp;&ensp;&ensp;Advisor: [<font color=Black>Guodao Sun</font>]&#40;http://www.huamin.org/&#41; <br>)
-- ### *2024.05 - now*, Texas A&M University. <br>
+- ### *2026.06 - now*, Zhejiang University of Technology. <br>
+*Postdoctoral Researcher* in Computer Science and Technology
+- ### *2024.05 - 2025.06*, Texas A&M University. <br>
 *Visiting Ph.D. Scholar* in Computer Science and Engineering
-- ### *2021.09 - now*, Zhejiang University of Technology. <br>
+- ### *2021.09 - 2026.06*, Zhejiang University of Technology. <br>
 *Ph.D Candidate* in Computer Science and Technology
 - ### *2017.09 - 2021.06*, Zhejiang University of Technology. <br>
 *B.E.* in  Education Technology
